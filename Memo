@@ -1,0 +1,5 @@
+cd ISTIC/Cours/VV/vv-TP3/Suport/Pmd-bin-5.0.5
+./testsimpleGame.sh
+
+Lancer le fichier .html dans le navigateur
+
