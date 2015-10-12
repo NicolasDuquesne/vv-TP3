@@ -1,0 +1,16 @@
+package vv.tp3;
+
+import net.sourceforge.pmd.lang.ast.Node;
+import net.sourceforge.pmd.lang.java.ast.*;
+import net.sourceforge.pmd.lang.java.rule.AbstractJavaRule;
+
+public class WhileTrueOrFalse extends AbstractJavaRule {
+
+    public Object visit(ASTWhileStatement node, Object data) {
+        if (node.) {
+            //ajout de la violation
+            addViolation(data, node);
+        }
+        return super.visit(node,data);
+    }
+}

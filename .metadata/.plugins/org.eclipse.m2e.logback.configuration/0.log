@@ -1,0 +1,103 @@
+2015-10-05 19:15:51,164 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: net.sourceforge.pmd:pmd:5.0.5 @ /home/nduquesne/ISTIC/Cours/VV/vv-TP3/Pmd/pmd/pom.xml.
+2015-10-05 19:15:52,326 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /home/nduquesne/ISTIC/Cours/VV/vv-TP3/Pmd/pmd/target/generated-sources/javacc added.
+2015-10-05 19:15:52,708 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Executing tasks
+2015-10-05 19:15:59,472 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Executed tasks
+2015-10-05 19:15:59,588 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /pmd/src/main/java
+2015-10-05 19:15:59,590 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /pmd/target/generated-sources/javacc
+2015-10-05 19:15:59,590 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /pmd/src/main/resources
+2015-10-05 19:15:59,597 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /pmd/src/test/java
+2015-10-05 19:15:59,598 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /pmd/src/test/resources
+2015-10-05 19:15:59,606 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Resources folder /pmd/src/test/java overlaps with sources folder /pmd/src/test/java
+2015-10-05 19:16:00,097 [Worker-3] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 10 sec
+2015-10-05 19:16:08,908 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /home/nduquesne/ISTIC/Cours/VV/vv-TP3/Pmd/pmd/target/generated-sources/javacc added.
+2015-10-05 19:16:08,985 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Executing tasks
+2015-10-05 19:16:09,310 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Executed tasks
+2015-10-05 19:16:09,366 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-05 19:16:09,387 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 67 resources
+2015-10-05 19:16:09,612 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-05 19:16:09,623 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 319 resources
+2015-10-05 19:16:09,813 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2015-10-05 19:16:45,158 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /home/nduquesne/ISTIC/Cours/VV/vv-TP3/Pmd/pmd/target/generated-sources/javacc added.
+2015-10-05 19:16:45,164 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-05 19:16:45,165 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-05 19:16:45,170 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-05 19:16:45,170 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-05 19:16:45,171 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-06 20:31:23,845 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /home/nduquesne/ISTIC/Cours/VV/vv-TP3/Pmd/pmd/target/generated-sources/javacc added.
+2015-10-06 20:31:23,956 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-06 20:31:23,968 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 67 resources
+2015-10-06 20:31:24,085 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-06 20:31:24,095 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 319 resources
+2015-10-06 20:31:24,125 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2015-10-06 22:07:43,131 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /home/nduquesne/ISTIC/Cours/VV/vv-TP3/Pmd/pmd/target/generated-sources/javacc added.
+2015-10-06 22:07:43,145 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-06 22:07:43,153 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 67 resources
+2015-10-06 22:07:43,212 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-06 22:07:43,212 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-06 22:07:43,212 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-06 22:09:58,849 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /home/nduquesne/ISTIC/Cours/VV/vv-TP3/Pmd/pmd/target/generated-sources/javacc added.
+2015-10-06 22:09:58,858 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-06 22:09:58,863 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 67 resources
+2015-10-06 22:09:58,908 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-06 22:09:58,909 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-06 22:09:58,909 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-06 22:11:05,909 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /home/nduquesne/ISTIC/Cours/VV/vv-TP3/Pmd/pmd/target/generated-sources/javacc added.
+2015-10-06 22:11:05,916 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-06 22:11:05,918 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 67 resources
+2015-10-06 22:11:05,947 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-06 22:11:05,948 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-06 22:11:05,948 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-06 22:13:00,130 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /home/nduquesne/ISTIC/Cours/VV/vv-TP3/Pmd/pmd/target/generated-sources/javacc added.
+2015-10-06 22:13:00,133 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-06 22:13:00,134 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 67 resources
+2015-10-06 22:13:00,161 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-06 22:13:00,162 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-06 22:13:00,162 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-06 22:21:26,759 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /home/nduquesne/ISTIC/Cours/VV/vv-TP3/Pmd/pmd/target/generated-sources/javacc added.
+2015-10-06 22:21:26,762 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-06 22:21:26,764 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 67 resources
+2015-10-06 22:21:26,796 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-06 22:21:26,797 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-06 22:21:26,797 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-06 22:21:35,052 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /home/nduquesne/ISTIC/Cours/VV/vv-TP3/Pmd/pmd/target/generated-sources/javacc added.
+2015-10-06 22:21:35,055 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-06 22:21:35,057 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 67 resources
+2015-10-06 22:21:35,088 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-06 22:21:35,088 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-06 22:21:35,088 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-06 22:23:05,273 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /home/nduquesne/ISTIC/Cours/VV/vv-TP3/Pmd/pmd/target/generated-sources/javacc added.
+2015-10-06 22:23:05,275 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-06 22:23:05,277 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 67 resources
+2015-10-06 22:23:05,302 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-06 22:23:05,302 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-06 22:23:05,303 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-06 23:29:01,534 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /home/nduquesne/ISTIC/Cours/VV/vv-TP3/Pmd/pmd/target/generated-sources/javacc added.
+2015-10-06 23:29:01,537 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-06 23:29:01,539 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 67 resources
+2015-10-06 23:29:01,559 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-06 23:29:01,559 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-06 23:29:01,559 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-06 23:29:58,632 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /home/nduquesne/ISTIC/Cours/VV/vv-TP3/Pmd/pmd/target/generated-sources/javacc added.
+2015-10-06 23:29:58,634 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-06 23:29:58,635 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 67 resources
+2015-10-06 23:29:58,666 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-06 23:29:58,666 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-06 23:29:58,666 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-06 23:33:02,934 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /home/nduquesne/ISTIC/Cours/VV/vv-TP3/Pmd/pmd/target/generated-sources/javacc added.
+2015-10-06 23:33:02,936 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-06 23:33:02,938 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 67 resources
+2015-10-06 23:33:02,973 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-06 23:33:02,973 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-06 23:33:02,973 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-08 20:36:24,196 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /home/nduquesne/ISTIC/Cours/VV/vv-TP3/Pmd/pmd/target/generated-sources/javacc added.
+2015-10-08 20:36:24,322 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-08 20:36:24,334 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 67 resources
+2015-10-08 20:36:24,468 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-08 20:36:24,496 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 319 resources
+2015-10-08 20:36:24,522 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2015-10-08 20:36:27,920 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Source directory: /home/nduquesne/ISTIC/Cours/VV/vv-TP3/Pmd/pmd/target/generated-sources/javacc added.
+2015-10-08 20:36:27,929 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-08 20:36:27,934 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 67 resources
+2015-10-08 20:36:27,981 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-10-08 20:36:27,981 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2015-10-08 20:36:27,981 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
